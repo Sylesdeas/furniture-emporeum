@@ -1,0 +1,17 @@
+p {
+  font-size: 14pt;
+  font-style: oblique;
+}
+.checkout {
+  background-color: chartreuse;
+}
+h2 {
+  padding-left: 100px;
+  padding-right: 100px;
+  color: rgb(77, 46, 5);
+}
+article {
+  background-color: blanchedalmond;
+  padding: 20px;
+  margin: 10px;
+}
